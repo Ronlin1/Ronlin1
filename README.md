@@ -13,11 +13,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=AfroBoy" target="_blank">
+  <a href="https://app.daily.dev/DailyDevTips" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/Ronlin1/Ronlin1/devcard/devcard.svg"
+      src="https://github.com/Ronlin1/Ronlin1/blob/main/devcard.svg" width="400" alt="Ronnie Atuhaire's Dev Card"
     />
   </a>
 </div>
