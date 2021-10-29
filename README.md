@@ -40,7 +40,15 @@ Some of the technologies that I am learning include:
 🔸Flutter <br>
 🔸Smart Contracts | Ethereum <br>
 🔸All tech lifelong learner <br>
-
+<div align="left">
+  <a href="https://app.daily.dev/AfroBoy" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/Ronlin1/Ronlin1/blob/main/connect.png" width="400" alt="Connect With Me"
+    />
+  </a>
+</div>
 
 #### 👯 I’m looking to collaborate on:
 Open Source especially Python Projects that will benefit the world. <br>
@@ -51,10 +59,14 @@ I use "food" as a search keyword to test for internet connectivity 😜.
 #### 📌Fav Quote:
 I do not fear computers but i fear lack of them.<br>
 -----Isaac Asimov
-#### 📫 How to reach me:
-For all my social media: Click [Here](https://linktr.ee/Atuhaire)!
 
+#### 📫 How to reach me:
+For all my social media: Click [Here](https://linktr.ee/Atuhaire)!<br>
+You can alternatively scan the QR Coded Image <br>
+
+<h3 align="right">
 Waiting to connect with you!🙇‍♂️
+</h3>
 
 
 
