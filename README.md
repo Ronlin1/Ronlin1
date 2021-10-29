@@ -13,7 +13,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/DailyDevTips" target="_blank">
+  <a href="https://app.daily.dev/AfroBoy" target="_blank">
     <img
       width="256"
       align="right"
