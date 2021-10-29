@@ -52,7 +52,7 @@ I use "food" as a search keyword to test for internet connectivity 😜.
 I do not fear computers but i fear lack of them.<br>
 -----Isaac Asimov
 #### 📫 How to reach me:
-For all my social media: Click Here!
+For all my social media: Click [Here](https://linktr.ee/Atuhaire)!
 
 Waiting to connect with you!🙇‍♂️
 
