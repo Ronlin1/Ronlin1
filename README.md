@@ -61,7 +61,7 @@ I do not fear computers but i fear lack of them.<br>
 -----Isaac Asimov
 
 #### 📫 How to reach me:
-For all my social media: Click [Here](https://linktr.ee/Atuhaire)!<br>
+For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 You can alternatively scan the QR Coded Image <br>
 
 <h3 align="right">
