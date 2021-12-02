@@ -1,4 +1,4 @@
-### Hi there 👋 , Welcome To My Little World!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Welcome To My Little World!
 <div align="left">
   <a href="https://twitter.com/AfroBoyUg" >
     <img
@@ -67,6 +67,12 @@ You can alternatively scan the QR Coded Image <br>
 <h3 align="right">
 Waiting to connect with you!🙇‍♂️
 </h3>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronlin1&show_icons=true&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronlin1&show_icons=true&theme=merko&align='right')](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
