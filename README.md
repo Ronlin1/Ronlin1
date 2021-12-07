@@ -92,7 +92,7 @@ Waiting to connect with you!🙇‍♂️
 <a href="https://discord.gg/dQgJgZRV"><img src="https://img.shields.io/badge/discord-543211?style=for-the-badge&logo=discord&logoColor=green"></a>
 <a href="https://octachart.com/"><img src="https://img.shields.io/badge/Visit Octachart-2962FF?style=for-the-badge&logo=website&logoColor=blue"></a>
 <a href="https://twitter.com/UGTechGeeks"><img src="https://img.shields.io/badge/UG Tech Geeks Bot-543211?style=for-the-badge&logo=twitter&logoColor=black"></a>
-<a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://bit.ly/3dupL7H"><img src="https://img.shields.io/badge/NFTs-2962FF?style=for-the-badge&logo=opensea&logoColor=white"></a>
 
 ### Languages, Tools & AOB
 <p align="left"> 
