@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Welcome To My Little World!
+
 <div align="left">
   <a href="https://twitter.com/AfroBoyUg" >
     <img
@@ -12,7 +13,7 @@
       alt="LinkedIn"
     />
   </a>
-  
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ronlin1.Ronlin1) 
 [![Github](https://img.shields.io/github/followers/Ronlin1?label=Follow&style=social)](https://github.com/Ronlin1)
  
@@ -126,6 +127,7 @@ Waiting to connect with you!🙇‍♂️
 <!--
 **Ronlin1/Ronlin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Views](https://komarev.com/ghpvc/?username=Ronlin1) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
