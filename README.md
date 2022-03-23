@@ -126,6 +126,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Web Scraping With Python GRequests](https://blog.octachart.com/asynchronous-web-scraping-with-python-grequests)
+- [Sending Emails With Python](https://blog.octachart.com/sending-emails-with-python)
+- [Let&#39;s Scrape Crypto Jobs Board!](https://blog.octachart.com/lets-scrape-crypto-jobs-board)
+- [How To By-Pass Cloudflare While Scraping?](https://blog.octachart.com/how-to-by-pass-cloudflare-while-scraping)
+- [Bitcoin Price Desktop Notifier With Python](https://blog.octachart.com/bitcoin-price-desktop-notifier-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
