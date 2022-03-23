@@ -30,6 +30,7 @@
 
 #### 💬 Ask me about:
 🔸Python <br>
+🔸Solidity <br>
 🔸Tech Blogging <br>
 🔸AWS<br>
 🔸Blockchain <br>
