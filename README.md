@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum Price Email Alerts With Python](https://blog.octachart.com/ethereum-price-email-alerts-with-python)
 - [A Quick Introduction To Packet Sniffing](https://blog.octachart.com/a-quick-introduction-to-packet-sniffing)
 - [Auto-List Your Blog-Posts With GitHub Actions &amp; Workflows](https://blog.octachart.com/auto-list-your-blog-posts-with-github-actions-and-workflows)
 - [Asynchronous Web Scraping With Python GRequests](https://blog.octachart.com/asynchronous-web-scraping-with-python-grequests)
 - [Sending Emails With Python](https://blog.octachart.com/sending-emails-with-python)
-- [Let&#39;s Scrape Crypto Jobs Board!](https://blog.octachart.com/lets-scrape-crypto-jobs-board)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
