@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Introduction To Web Scraping With Python](https://blog.octachart.com/a-practical-introduction-to-web-scraping-with-python)
 - [Sierpiński Triangle With Python Turtle](https://blog.octachart.com/sierpinski-triangle-with-python-turtle)
 - [Asynchronous Web Scraping With Python AIOHTTP](https://blog.octachart.com/asynchronous-web-scraping-with-python-aiohttp)
 - [Introduction To SSH Tunneling](https://blog.octachart.com/introduction-to-ssh-tunneling)
 - [Learn Blockchain Concepts Practically With Python](https://blog.octachart.com/learn-blockchain-concepts-practically-with-python)
-- [Ethereum Price Email Alerts With Python](https://blog.octachart.com/ethereum-price-email-alerts-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
