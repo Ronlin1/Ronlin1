@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Why Everyone Should Learn Programming?](https://blog.octachart.com/why-everyone-should-learn-programming)
 - [45 Crypto Lingo &amp; Terms For Newbies](https://blog.octachart.com/45-crypto-lingo-and-terms-for-newbies)
 - [A Practical Introduction To Web Scraping With Python](https://blog.octachart.com/a-practical-introduction-to-web-scraping-with-python)
 - [Sierpiński Triangle With Python Turtle](https://blog.octachart.com/sierpinski-triangle-with-python-turtle)
 - [Asynchronous Web Scraping With Python AIOHTTP](https://blog.octachart.com/asynchronous-web-scraping-with-python-aiohttp)
-- [Introduction To SSH Tunneling](https://blog.octachart.com/introduction-to-ssh-tunneling)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
