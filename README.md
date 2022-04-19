@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Keylogger In Just 10 Lines Of Python](https://blog.octachart.com/keylogger-in-just-10-lines-of-python)
 - [Ping With Python](https://blog.octachart.com/ping-with-python)
 - [Life Of A Crypto Trader 🤓](https://blog.octachart.com/life-of-a-crypto-trader)
 - [The Ethereum Merge Explained!](https://blog.octachart.com/the-ethereum-merge-explained)
 - [Why Everyone Should Learn Programming?](https://blog.octachart.com/why-everyone-should-learn-programming)
-- [45 Crypto Lingo &amp; Terms For Newbies](https://blog.octachart.com/45-crypto-lingo-and-terms-for-newbies)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
