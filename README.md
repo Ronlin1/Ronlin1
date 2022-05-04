@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Publish Your Own Package To PyPI](https://blog.octachart.com/how-to-publish-your-own-python-package-to-pypi)
 - [How To Deploy A Docz Site On Render](https://blog.octachart.com/how-to-deploy-a-docz-site-on-render)
 - [A Beginners Introduction To Shodan](https://blog.octachart.com/a-beginners-introduction-to-shodan)
 - [Why Programmers Code At Night?](https://blog.octachart.com/why-programmers-code-at-night)
 - [Ping Sweeper In Python](https://blog.octachart.com/ping-sweeper-in-python)
-- [Life Of A Crypto Trader 🤓](https://blog.octachart.com/life-of-a-crypto-trader-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
