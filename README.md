@@ -62,8 +62,8 @@ Open Source especially Python Projects that will benefit the world. <br>
 I use "food" as a search keyword to test for internet connectivity 😜.
 
 #### 📌Fav Quote:
-I do not fear computers but i fear lack of them.<br>
------Isaac Asimov
+I do not fear computers but i fear lack of them. <br>
+----- Isaac Asimov
 
 #### 📫 How to reach me:
 For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
