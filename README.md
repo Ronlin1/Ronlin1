@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Tabs With THW](https://blog.octachart.com/keeping-tabs-with-hashnode-challenge)
+- [Keeping Tabs With THW -2](https://blog.octachart.com/keeping-tabs-with-thw)
+- [Keeping Tabs With THW -1](https://blog.octachart.com/keeping-tabs-with-hashnode-challenge)
 - [Life Of A Crypto Trader 🤓](https://blog.octachart.com/life-of-a-crypto-trader-1)
 - [Scripting With Shodan API](https://blog.octachart.com/scripting-with-shodan-api)
 - [Publish Your Own Package To PyPI](https://blog.octachart.com/how-to-publish-your-own-python-package-to-pypi)
-- [How To Deploy A Docz Site On Render](https://blog.octachart.com/how-to-deploy-a-docz-site-on-render)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
