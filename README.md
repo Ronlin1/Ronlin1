@@ -29,7 +29,7 @@
 <br />
 
 #### 💬 Ask me about:
-🔸Python <br>
+🔸Python  <br>
 🔸Solidity <br>
 🔸Tech Blogging <br>
 🔸AWS<br>
