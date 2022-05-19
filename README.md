@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Run Python Directly In HTML With PyScript](https://blog.octachart.com/run-python-directly-in-html-with-pyscript)
 - [Life Of A Crypto Trader 🤓](https://blog.octachart.com/life-of-a-crypto-trader-2)
 - [Keeping Tabs With THW -3](https://blog.octachart.com/keeping-tabs-with-thw-3)
 - [Keeping Tabs With THW -2](https://blog.octachart.com/keeping-tabs-with-thw)
 - [Keeping Tabs With THW -1](https://blog.octachart.com/keeping-tabs-with-hashnode-challenge)
-- [Life Of A Crypto Trader 🤓](https://blog.octachart.com/life-of-a-crypto-trader-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
