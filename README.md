@@ -28,7 +28,6 @@
 </div>
 
 <br />
-
 #### 💬 Ask me about:
 🔸Python  <br>
 🔸Solidity <br>
