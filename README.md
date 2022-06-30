@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Deploy A Node-JS App On Render In Under 5 Mins!](https://blog.octachart.com/deploy-a-node-js-app-on-render-in-under-5-mins)
 - [How I Increased My Programming Logic!](https://blog.octachart.com/how-i-increased-my-programming-logic)
 - [Popular Shortest Path Algorithms](https://blog.octachart.com/popular-shortest-path-algorithms)
 - [What Exactly Are SBTs ?](https://blog.octachart.com/what-exactly-are-sbts)
 - [Run Python Directly In HTML With PyScript](https://blog.octachart.com/run-python-directly-in-html-with-pyscript)
-- [Life Of A Crypto Trader 🤓](https://blog.octachart.com/life-of-a-crypto-trader-2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
