@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Jarvis Or Alexa](https://blog.octachart.com/build-your-own-jarvis-or-alexa)
 - [The First Blockchain DevFest In Uganda!](https://blog.octachart.com/the-first-blockchain-devfest-in-uganda)
 - [Smart Contract Tools For Pythonistas](https://blog.octachart.com/smart-contract-tools-for-pythonistas)
 - [Deploy A Node-JS App On Render In Under 5 Mins!](https://blog.octachart.com/deploy-a-node-js-app-on-render-in-under-5-mins)
 - [How I Increased My Programming Logic!](https://blog.octachart.com/how-i-increased-my-programming-logic)
-- [Popular Shortest Path Algorithms](https://blog.octachart.com/popular-shortest-path-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
