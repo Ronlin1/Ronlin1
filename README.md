@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Three Tricks To Read  Articles Behind A PayWall](https://blog.octachart.com/three-tricks-to-read-articles-behind-a-paywall)
 - [A Simple Hack To Reveal Saved Passwords In Browsers](https://blog.octachart.com/a-simple-hack-to-reveal-saved-passwords-in-browsers)
 - [Getting Started With MetaMask](https://blog.octachart.com/getting-started-with-metamask)
 - [Build Your Own Jarvis Or Alexa](https://blog.octachart.com/build-your-own-jarvis-or-alexa)
 - [The First Blockchain DevFest In Uganda!](https://blog.octachart.com/the-first-blockchain-devfest-in-uganda)
-- [Smart Contract Tools For Pythonistas](https://blog.octachart.com/smart-contract-tools-for-pythonistas)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
