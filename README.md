@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Guide to Ngrok](https://blog.octachart.com/a-simple-guide-to-ngrok)
 - [What Exactly Is End To End Encryption?](https://blog.octachart.com/what-exactly-is-end-to-end-encryption)
 - [HTTP Sniffing With Scapy](https://blog.octachart.com/http-sniffing-with-scapy)
 - [Python Port Scanning With Threads](https://blog.octachart.com/python-port-scanning-with-threads)
 - [Three Tricks To Read  Articles Behind A PayWall](https://blog.octachart.com/three-tricks-to-read-articles-behind-a-paywall)
-- [A Simple Hack To Reveal Saved Passwords In Browsers](https://blog.octachart.com/a-simple-hack-to-reveal-saved-passwords-in-browsers)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
