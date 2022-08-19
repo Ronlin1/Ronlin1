@@ -32,7 +32,7 @@
 ####  💬 Ask me about:
 🔸Python  <br>
 🔸Solidity <br>
-🔸Tech Blogging <br>
+🔸Technical Writing <br>
 🔸AWS<br>
 🔸Blockchain <br>
 🔸Kotlin <br>
