@@ -128,11 +128,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Nothing Phone &lpar;1&rpar;: Features &amp; Specs](https://blog.octachart.com/nothing-phone-1-features-specs)
 - [Google Chrome Flags; How To Enable Dark Mode](https://blog.octachart.com/google-chrome-flags-how-to-enable-dark-mode)
 - [Download Specific YouTube Parts](https://blog.octachart.com/download-specific-youtube-parts)
 - [Let’s Go Phishing; IPs, Emails &amp; Usernames](https://blog.octachart.com/lets-go-phishing-ips-emails-usernames)
 - [A Simple Guide to Ngrok](https://blog.octachart.com/a-simple-guide-to-ngrok)
-- [What Exactly Is End To End Encryption?](https://blog.octachart.com/what-exactly-is-end-to-end-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
