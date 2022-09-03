@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" > , Welcome To My Little World!
 
-<div align="left">
+<div align="left" >
   <a href="https://twitter.com/AfroBoyUg" >
     <img
       src="https://img.shields.io/twitter/follow/AfroBoyUg?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -18,7 +18,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ronlin1.Ronlin1) 
 [![Github](https://img.shields.io/github/followers/Ronlin1?label=Follow&style=social)](https://github.com/Ronlin1)
  
-  <a href="https://app.daily.dev/AfroBoy" target="_blank">
+  <a href="https://app.daily.dev/AfroBoy" target="_blank" >
     <img
       width="256"
       align="right"
