@@ -128,11 +128,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Innovation Program to Train 50 Ugandans](https://blog.octachart.com/blockchain-innovation-program-to-train-50-ugandans)
 - [Stop Memorizing Code! Do This Instead...](https://blog.octachart.com/stop-memorizing-code-do-this-instead)
 - [Nothing Phone &lpar;1&rpar;: Features &amp; Specs](https://blog.octachart.com/nothing-phone-1-features-specs)
 - [Google Chrome Flags; How To Enable Dark Mode](https://blog.octachart.com/google-chrome-flags-how-to-enable-dark-mode)
 - [Download Specific YouTube Parts](https://blog.octachart.com/download-specific-youtube-parts)
-- [Let’s Go Phishing; IPs, Emails &amp; Usernames](https://blog.octachart.com/lets-go-phishing-ips-emails-usernames)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
