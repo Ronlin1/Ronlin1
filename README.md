@@ -128,11 +128,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Women In FinTech Hackathon 21: How MpaMpe Merged in Top 5](https://blog.octachart.com/women-in-fintech-hackathon-21-how-mpampe-merged-in-top-5)
 - [FACOW: The Tech Unicorns of Africa](https://blog.octachart.com/facow-the-tech-unicorns-of-africa)
 - [Blockchain Innovation Program to Train 50 Ugandans](https://blog.octachart.com/blockchain-innovation-program-to-train-50-ugandans)
 - [Stop Memorizing Code! Do This Instead...](https://blog.octachart.com/stop-memorizing-code-do-this-instead)
 - [Nothing Phone &lpar;1&rpar;: Features &amp; Specs](https://blog.octachart.com/nothing-phone-1-features-specs)
-- [Google Chrome Flags; How To Enable Dark Mode](https://blog.octachart.com/google-chrome-flags-how-to-enable-dark-mode)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
