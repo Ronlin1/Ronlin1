@@ -128,11 +128,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Hardware Event 2022: Here Are 12 Big Reveals And More](https://blog.octachart.com/amazon-hardware-event-2022-here-are-12-big-reveals-and-more)
 - [Have You Been Pwned? Find Out and Protect Yourself](https://blog.octachart.com/have-you-been-pwned-find-out-and-protect-yourself)
 - [Women In FinTech Hackathon 21: How MpaMpe Merged in Top 5](https://blog.octachart.com/women-in-fintech-hackathon-21-how-mpampe-merged-in-top-5)
 - [FACOW: The Tech Unicorns of Africa](https://blog.octachart.com/facow-the-tech-unicorns-of-africa)
 - [Blockchain Innovation Program to Train 50 Ugandans](https://blog.octachart.com/blockchain-innovation-program-to-train-50-ugandans)
-- [Stop Memorizing Code! Do This Instead...](https://blog.octachart.com/stop-memorizing-code-do-this-instead)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
