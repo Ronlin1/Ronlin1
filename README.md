@@ -37,6 +37,7 @@
 🔸Blockchain <br>
 🔸Kotlin <br>
 🔸Digital Marketing<br>
+🔸FinTechs
 
 #### 🌱 I’m currently learning:
 Almost anything in tech as I am a tech enthusiast and lover of what technology especially it's impact in the world.<br>
