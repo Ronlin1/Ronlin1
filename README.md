@@ -33,7 +33,6 @@
 🔸Python  <br>
 🔸Solidity <br>
 🔸Technical Writing <br>
-🔸AWS<br>
 🔸Blockchain <br>
 🔸Kotlin <br>
 🔸Digital Marketing<br>
