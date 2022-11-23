@@ -34,7 +34,6 @@
 🔸Solidity <br>
 🔸Technical Writing <br>
 🔸Blockchain <br>
-🔸Kotlin <br>
 🔸Digital Marketing<br>
 🔸FinTechs
 
