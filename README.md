@@ -127,11 +127,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [5G: Top 6 Most Frequently Asked Questions Answered](https://blog.octachart.com/5g-top-6-most-frequently-asked-questions-answered)
 - [Python 3.11 Is Here! What&#39;s New](https://blog.octachart.com/python-311-is-here-whats-new)
 - [What is PPV Model: PPV vs Subscription](https://blog.octachart.com/what-is-ppv-model-ppv-vs-subscription)
 - [Amazon Hardware Event 2022: Here Are 12 Big Reveals And More](https://blog.octachart.com/amazon-hardware-event-2022-here-are-12-big-reveals-and-more)
 - [Have You Been Pwned? Find Out and Protect Yourself](https://blog.octachart.com/have-you-been-pwned-find-out-and-protect-yourself)
-- [Women In FinTech Hackathon 21: How MpaMpe Merged in Top 5](https://blog.octachart.com/women-in-fintech-hackathon-21-how-mpampe-merged-in-top-5)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
