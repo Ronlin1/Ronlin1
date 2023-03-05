@@ -42,6 +42,7 @@ Almost anything in tech as I am a tech enthusiast and lover of what technology e
 Some of the technologies that I am learning include:
 
 🔸Node JS with EJS <br>
+🔸C <br>
 🔸Flutter <br>
 🔸Smart Contracts | Ethereum <br>
 🔸All tech lifelong learner <br>
