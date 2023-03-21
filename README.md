@@ -1,6 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" > , Welcome To My Little World!
+<div align="center" >
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+Welcome+To+My+Little+World!)
+<hr />
+</div>
 
-<div align="left" >
+![Snake animation](https://github.com/MariyahLuz/MariyahLuz/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center" >
   <a href="https://twitter.com/AfroBoyUg" >
     <img
       src="https://img.shields.io/twitter/follow/AfroBoyUg?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -66,7 +72,7 @@ I use "food" as a search keyword to test for internet connectivity 😜.
 I do not fear computers but i fear lack of them. <br>
 ----- Isaac Asimov
 
-#### 📫 How to reach me:
+#### 📫 How to reach me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >
 For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 You can alternatively scan the QR Coded Image <br>
 
@@ -98,7 +104,12 @@ Waiting to connect with you!🙇‍♂️
 <a href="https://twitter.com/UGTechGeeks"><img src="https://img.shields.io/badge/UG Tech Geeks Bot-543211?style=for-the-badge&logo=twitter&logoColor=black"></a>
 <a href="https://bit.ly/3dupL7H"><img src="https://img.shields.io/badge/NFTs-2962FF?style=for-the-badge&logo=opensea&logoColor=white"></a>
 
+<hr />
+![Snake animation](https://github.com/Ronlin1/Ronlin1/blob/output/github-contribution-grid-snake.svg)
+<hr />
+
 ### Languages, Tools & AOB
+<hr />
 <p align="left"> 
   
   <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
