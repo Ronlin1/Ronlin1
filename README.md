@@ -4,8 +4,6 @@
 <hr />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
 <div align="center" >
   <a href="https://twitter.com/AfroBoyUg" >
     <img
@@ -103,10 +101,10 @@ Waiting to connect with you!🙇‍♂️
 <a href="https://octachart.com/"><img src="https://img.shields.io/badge/Visit Octachart-2962FF?style=for-the-badge&logo=website&logoColor=blue"></a>
 <a href="https://twitter.com/UGTechGeeks"><img src="https://img.shields.io/badge/UG Tech Geeks Bot-543211?style=for-the-badge&logo=twitter&logoColor=black"></a>
 <a href="https://bit.ly/3dupL7H"><img src="https://img.shields.io/badge/NFTs-2962FF?style=for-the-badge&logo=opensea&logoColor=white"></a>
+<hr >
 
-<hr />
-![Snake animation](https://github.com/Ronlin1/Ronlin1/blob/output/github-contribution-grid-snake.svg)
-<hr />
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<hr >
 
 ### Languages, Tools & AOB
 <hr />
