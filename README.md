@@ -4,7 +4,7 @@
 <hr />
 </div>
 
-![Snake animation](https://github.com/MariyahLuz/MariyahLuz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <div align="center" >
   <a href="https://twitter.com/AfroBoyUg" >
