@@ -138,11 +138,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [What Happens When You Type https://www.google.com in Your Browser and Press Enter](https://blog.octachart.com/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter)
 - [A Comprehensive Guide to Understanding Programming Case Types](https://blog.octachart.com/a-comprehensive-guide-to-understanding-programming-case-types)
 - [Domain Names, Types, and Extensions Explained](https://blog.octachart.com/domain-names-types-and-extensions-explained)
 - [5G: Top 6 Most Frequently Asked Questions Answered](https://blog.octachart.com/5g-top-6-most-frequently-asked-questions-answered)
 - [Python 3.11 Is Here! What&#39;s New](https://blog.octachart.com/python-311-is-here-whats-new)
-- [What is PPV Model: PPV vs Subscription](https://blog.octachart.com/what-is-ppv-model-ppv-vs-subscription)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
