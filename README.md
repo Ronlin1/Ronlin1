@@ -111,27 +111,19 @@ Waiting to connect with you!🙇‍♂️
 <p align="left"> 
   
   <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
-  <img src="https://img.shields.io/badge/kotlin-403837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-29C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=yellow">
   <img src="https://img.shields.io/badge/Git-FF58912?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/scrum-C78765?style=for-the-badge&logo=scrum&logoColor=orange">
   <img src="https://img.shields.io/badge/solidity-BB3837?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Aws-F7DF1E?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/ethereum-2334AC?style=for-the-badge&logo=ethereum&logoColor=yellow">
   <img src="https://img.shields.io/badge/docker-CB3837?style=for-the-badge&logo=docker&logoColor=green">
   <img src="https://img.shields.io/badge/google-E34F26?style=for-the-badge&logo=google&logoColor=blue">
-  <img src="https://img.shields.io/badge/heroku-AA4533?style=for-the-badge&logo=heroku&logoColor=yellow">
-  <img src="https://img.shields.io/badge/flutter-A6C7B7?style=for-the-badge&logo=flutter&logoColor=red">
   <img src="https://img.shields.io/badge/vscode-11C7B7?style=for-the-badge&logo=vscode&logoColor=blue">
   <img src="https://img.shields.io/badge/pycharm-344121?style=for-the-badge&logo=pycharm&logoColor=green">
   <img src="https://img.shields.io/badge/openshot-A324C7?style=for-the-badge&logo=openshot&logoColor=white">
-  <img src="https://img.shields.io/badge/Blockchain-7023AC?style=for-the-badge&logo=binance&logoColor=purple">
+
 
 </p>
 <br>
