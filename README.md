@@ -97,10 +97,8 @@ Waiting to connect with you!🙇‍♂️
 <a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC8gsxBsDvO5xN5ZCHRrUIxw/videos"><img src="https://img.shields.io/badge/youtube-543211?style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://twitter.com/intent/follow?screen_name=AfroBoyUg"><img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://discord.gg/dQgJgZRV"><img src="https://img.shields.io/badge/discord-543211?style=for-the-badge&logo=discord&logoColor=green"></a>
 <a href="https://octachart.com/"><img src="https://img.shields.io/badge/Visit Octachart-2962FF?style=for-the-badge&logo=website&logoColor=blue"></a>
 <a href="https://twitter.com/UGTechGeeks"><img src="https://img.shields.io/badge/UG Tech Geeks Bot-543211?style=for-the-badge&logo=twitter&logoColor=black"></a>
-<a href="https://bit.ly/3dupL7H"><img src="https://img.shields.io/badge/NFTs-2962FF?style=for-the-badge&logo=opensea&logoColor=white"></a>
 <hr >
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
@@ -113,14 +111,12 @@ Waiting to connect with you!🙇‍♂️
   <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-FF58912?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/scrum-C78765?style=for-the-badge&logo=scrum&logoColor=orange">
   <img src="https://img.shields.io/badge/solidity-BB3837?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Aws-F7DF1E?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/ethereum-2334AC?style=for-the-badge&logo=ethereum&logoColor=yellow">
   <img src="https://img.shields.io/badge/docker-CB3837?style=for-the-badge&logo=docker&logoColor=green">
   <img src="https://img.shields.io/badge/google-E34F26?style=for-the-badge&logo=google&logoColor=blue">
-  <img src="https://img.shields.io/badge/vscode-11C7B7?style=for-the-badge&logo=vscode&logoColor=blue">
   <img src="https://img.shields.io/badge/pycharm-344121?style=for-the-badge&logo=pycharm&logoColor=green">
   <img src="https://img.shields.io/badge/openshot-A324C7?style=for-the-badge&logo=openshot&logoColor=white">
 
@@ -139,8 +135,11 @@ Waiting to connect with you!🙇‍♂️
 
 <hr>
 
+
 <!--
 **Ronlin1/Ronlin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <img src="https://img.shields.io/badge/Git-FF58912?style=for-the-badge&logo=git&logoColor=white">
 
 ![Views](https://komarev.com/ghpvc/?username=Ronlin1) 
 Here are some ideas to get you started:
