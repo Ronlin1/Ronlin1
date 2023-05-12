@@ -115,7 +115,6 @@ Waiting to connect with you!🙇‍♂️
   <img src="https://img.shields.io/badge/solidity-BB3837?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Aws-F7DF1E?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/ethereum-2334AC?style=for-the-badge&logo=ethereum&logoColor=yellow">
-  <img src="https://img.shields.io/badge/docker-CB3837?style=for-the-badge&logo=docker&logoColor=green">
   <img src="https://img.shields.io/badge/google-E34F26?style=for-the-badge&logo=google&logoColor=blue">
   <img src="https://img.shields.io/badge/pycharm-344121?style=for-the-badge&logo=pycharm&logoColor=green">
   <img src="https://img.shields.io/badge/openshot-A324C7?style=for-the-badge&logo=openshot&logoColor=white">
@@ -155,6 +154,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ADD THIS LATER
+  <img src="https://img.shields.io/badge/docker-CB3837?style=for-the-badge&logo=docker&logoColor=green">
 <a href="https://twitter.com/FrancescoCiull4"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a> 
 &ensp;<a href="https://www.youtube.com/c/FrancescoCiulla"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
