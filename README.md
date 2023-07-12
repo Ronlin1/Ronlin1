@@ -141,7 +141,7 @@ Waiting to connect with you!🙇‍♂️
   <img src="https://img.shields.io/badge/Git-FF58912?style=for-the-badge&logo=git&logoColor=white">
  
 ![Views](https://komarev.com/ghpvc/?username=Ronlin1) 
-Here are some ideas to get you started: 
+Here are some ideas to get you started:  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
