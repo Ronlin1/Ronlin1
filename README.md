@@ -125,11 +125,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [UEFI Vs BIOS Firmware: How to Tell What Powers Your Computer](https://blog.octachart.com/uefi-vs-bios-firmware-how-to-tell-what-powers-your-computer)
 - [Postmortem: Web Stack Outage [EXAMPLE]](https://blog.octachart.com/postmortem-web-stack-outage-example)
 - [What Happens When You Type https://www.google.com in Your Browser and Press Enter](https://blog.octachart.com/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter)
 - [A Comprehensive Guide to Understanding Programming Case Types](https://blog.octachart.com/a-comprehensive-guide-to-understanding-programming-case-types)
 - [Domain Names, Types, and Extensions Explained](https://blog.octachart.com/domain-names-types-and-extensions-explained)
-- [5G: Top 6 Most Frequently Asked Questions Answered](https://blog.octachart.com/5g-top-6-most-frequently-asked-questions-answered)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
