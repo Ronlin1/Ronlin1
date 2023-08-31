@@ -41,13 +41,14 @@
 🔸FinTechs  <br>
 
 #### 🌱 I’m currently learning:
-Almost anything in tech as I am a tech enthusiast and lover of what technology especially it's impact in the world.<br>
+Almost anything in tech as I am a tech enthusiast and lover of technology especially its impact on the world.<br>
 Some of the technologies that I am learning include:
 
 🔸Node JS with EJS <br>
-🔸C <br>
+🔸C | Embedded Systems <br>
+🔸Artificial Intelligence <br>
 🔸Flutter <br>
-🔸Smart Contracts | Ethereum <br>
+🔸Robotics Process Automation <br>
 🔸All tech lifelong learner <br>
 <div align="left">
   <a href="https://app.daily.dev/AfroBoy" target="_blank">
@@ -66,7 +67,7 @@ Open Source especially Python Projects that will benefit the world. <br>
 I use "food" as a search keyword to test for internet connectivity 😜.
 
 #### 📌Fav Quote:
-I do not fear computers but i fear lack of them. <br>
+I do not fear computers but I fear lack of them. <br>
 ----- Isaac Asimov
 
 #### 📫 How to reach me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >
@@ -132,6 +133,7 @@ Waiting to connect with you!🙇‍♂️
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
+<img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Alt text"></img>
 
 
 <!--
