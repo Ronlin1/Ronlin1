@@ -125,11 +125,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [CodeLobster IDE: A Free Editor for PHP, HTML, CSS, JavaScript, and TypeScript](https://blog.octachart.com/codelobster-ide-a-free-editor-for-php-html-css-javascript-and-typescript)
 - [What is Android Rooting? Pros and Cons Elaborated](https://blog.octachart.com/what-is-android-rooting-pros-and-cons-elaborated)
 - [UEFI Vs BIOS Firmware: How to Tell What Powers Your Computer](https://blog.octachart.com/uefi-vs-bios-firmware-how-to-tell-what-powers-your-computer)
 - [Postmortem: Web Stack Outage [EXAMPLE]](https://blog.octachart.com/postmortem-web-stack-outage-example)
 - [What Happens When You Type https://www.google.com in Your Browser and Press Enter](https://blog.octachart.com/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter)
-- [A Comprehensive Guide to Understanding Programming Case Types](https://blog.octachart.com/a-comprehensive-guide-to-understanding-programming-case-types)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
