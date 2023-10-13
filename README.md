@@ -72,7 +72,7 @@ I do not fear computers but I fear lack of them. <br>
 
 #### 📫 How to reach me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >
 For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
-You can alternatively scan the QR Coded Image <br>
+You can alternatively scan the QR Coded Image  <br>
 
 <h3 align="right">
 Waiting to connect with you!🙇‍♂️
