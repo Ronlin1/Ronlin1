@@ -125,11 +125,11 @@ Waiting to connect with you!🙇‍♂️
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on a Journey: My Airbyte Hackathon and Hacktoberfest Odyssey](https://blog.octachart.com/embarking-on-a-journey-my-airbyte-hackathon-and-hacktoberfest-odyssey)
 - [Nimble API: Generate Credentials and Start Web and Data Scraping](https://blog.octachart.com/nimble-api-generate-credentials-and-start-web-and-data-scraping)
 - [Excel Revolutionized: Python Integration Unveiled for Data Analysts](https://blog.octachart.com/excel-revolutionized-python-integration-unveiled-for-data-analysts)
 - [Introduction to Nimble: Your Ultimate AI Solution to Web Scraping](https://blog.octachart.com/introduction-to-nimble-your-ultimate-ai-solution-to-web-scraping)
 - [CodeLobster IDE: A Free Editor for PHP, HTML, CSS, JavaScript, and TypeScript](https://blog.octachart.com/codelobster-ide-a-free-editor-for-php-html-css-javascript-and-typescript)
-- [What is Android Rooting? Pros and Cons Elaborated](https://blog.octachart.com/what-is-android-rooting-pros-and-cons-elaborated)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
