@@ -108,7 +108,7 @@ Waiting to connect with you!🙇‍♂️
 <hr />
 <p align="left"> 
   
-  <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
+  <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/scrum-C78765?style=for-the-badge&logo=scrum&logoColor=orange">
