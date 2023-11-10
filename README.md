@@ -133,7 +133,7 @@ Waiting to connect with you!🙇‍♂️
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
-<img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Alt text"></img>
+<!-- <img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Alt text"></img> -->
 
 
 <!--
