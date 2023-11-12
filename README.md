@@ -50,15 +50,7 @@ Some of the technologies that I am learning include:
 🔸Flutter <br>
 🔸Robotics Process Automation <br>
 🔸All tech lifelong learner <br>
-<div align="left">
-  <a href="https://app.daily.dev/AfroBoy" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/Ronlin1/Ronlin1/blob/main/connect.png" width="400" alt="Connect With Me"
-    />
-  </a>
-</div>
+
 
 #### 👯 I’m looking to collaborate on:
 Open Source especially Python Projects that will benefit the world. <br>
@@ -72,11 +64,7 @@ I do not fear computers but I fear lack of them. <br>
 
 #### 📫 How to reach me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >
 For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
-You can alternatively scan the QR Coded Image  <br>
 
-<h3 align="right">
-Waiting to connect with you!🙇‍♂️
-</h3>
 
 ## &#x1f4c8; My GitHub Analytics
 
@@ -93,7 +81,7 @@ Waiting to connect with you!🙇‍♂️
 </p>
 
 
-###  Content Creation
+###  Content Creation 🙇‍♂️
 <a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC8gsxBsDvO5xN5ZCHRrUIxw/videos"><img src="https://img.shields.io/badge/youtube-543211?style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://twitter.com/intent/follow?screen_name=AfroBoyUg"><img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
