@@ -106,6 +106,7 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
   <img src="https://img.shields.io/badge/pycharm-344121?style=for-the-badge&logo=pycharm&logoColor=green">
   <img src="https://img.shields.io/badge/openshot-A324C7?style=for-the-badge&logo=openshot&logoColor=white">
 
+
 </p>
 <br>
 
