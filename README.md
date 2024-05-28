@@ -41,16 +41,10 @@
 🔸FinTechs  <br>
 
 #### 🌱 I’m currently learning:
-Almost anything in tech as I am a tech enthusiast and lover of technology especially its impact on the world.<br>
-Some of the technologies that I am learning include:
-
-🔸Node JS with EJS <br>
 🔸C | Embedded Systems <br>
 🔸Artificial Intelligence <br>
 🔸Flutter <br>
 🔸Robotics Process Automation <br>
-🔸All tech lifelong learner <br>
-
 
 #### 👯 I’m looking to collaborate on:
 Open Source especially Python Projects that will benefit the world. <br>
