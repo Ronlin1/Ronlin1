@@ -122,7 +122,7 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 <hr>
 
 <div align="center">
-<a href="https://github.com/Ronlin1/Ronlin1/issues/issuecomment-new"><img src="guestbook.svg"></a> 
+<a href="https://github.com/Ronlin1/Ronlin1/issues/1#issuecomment-new"><img src="guestbook.svg"></a> 
 
 <!-- Guestbook -->
 | Name | Date | Message |
