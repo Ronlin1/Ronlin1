@@ -122,7 +122,7 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 <hr>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/Ronlin1/Ronlin1/issues/62#issuecomment-new"><img src="guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
