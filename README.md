@@ -122,8 +122,7 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 <hr>
 
 <div align="center">
-<a href="https://github.com/Ronlin1/Ronlin1/issues/62#issuecomment-new"><img src="guestbook.svg"></a> 
-</div>
+<a href="https://github.com/Ronlin1/Ronlin1/issues/issuecomment-new"><img src="guestbook.svg"></a> 
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -131,6 +130,7 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 | <a href="https://github.com/Ronlin1"><img width="24" src="https://avatars.githubusercontent.com/u/66623378?s=24&u=0fed5daa84fbd5ba029e0777fb548a8cb9460d45&v=4" alt="Ronlin1" /> Ronlin1</a> |5/28/2024, 7:27:05 PM|Hey, Test!|
 <!-- /Guestbook -->
 
+</div>
 <!-- <img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Alt text"></img> -->
 
 
