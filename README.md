@@ -76,13 +76,11 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 
 ###  Content Creation 🙇‍♂️
 <a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UC8gsxBsDvO5xN5ZCHRrUIxw/videos"><img src="https://img.shields.io/badge/youtube-543211?style=for-the-badge&logo=youtube&logoColor=red"></a>
+<a href="https://www.youtube.com/channel/UC8gsxBsDvO5xN5ZCHRrUIxw/videos"><img src="https://img.shields.io/badge/youtube-2962FF?style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://twitter.com/intent/follow?screen_name=AfroBoyUg"><img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://octachart.com/"><img src="https://img.shields.io/badge/Visit Octachart-2962FF?style=for-the-badge&logo=website&logoColor=blue"></a>
-<a href="https://twitter.com/UGTechGeeks"><img src="https://img.shields.io/badge/UG Tech Geeks Bot-543211?style=for-the-badge&logo=twitter&logoColor=black"></a>
-<hr >
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<hr >
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronlin1/Ronlin1/output/github-contribution-grid-snake-dark.svg">
@@ -135,11 +133,12 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 <!-- <img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Alt text"></img> -->
 
 
+
 <!--
 **Ronlin1/Ronlin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   <img src="https://img.shields.io/badge/Git-FF58912?style=for-the-badge&logo=git&logoColor=white">
- 
+ ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg) 
 ![Views](https://komarev.com/ghpvc/?username=Ronlin1) 
 Here are some ideas to get you started:  
 
