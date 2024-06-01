@@ -56,7 +56,7 @@ I use "food" as a search keyword to test for internet connectivity 😜.
 I do not fear computers but I fear lack of them. <br>
 ----- Isaac Asimov
 
-####😄 Pronouns: He/Him
+#### 😄 Pronouns: He/Him
 
 #### 📫 How to reach me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >
 For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
