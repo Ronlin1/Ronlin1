@@ -113,7 +113,7 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Tech Competitions in Uganda: Empowering Future Innovators](https://blog.octachart.com/the-importance-of-tech-competitions-in-uganda-empowering-future-innovators)
+- [Tech Talent in Uganda: The Impact of Student Competitions](https://blog.octachart.com/tech-talent-in-uganda-the-impact-of-student-competitions)
 - [Will AI Replace Programmers: Should You Panic?](https://blog.octachart.com/will-ai-replace-programmers-should-you-panic)
 - [Crafting pBot as a Pinnacle AI Assistant  for the Pangea Community](https://blog.octachart.com/crafting-pbot-as-a-pinnacle-ai-assitant-for-the-pangea-community)
 - [Embarking on a Journey: My Airbyte Hackathon and Hacktoberfest Odyssey](https://blog.octachart.com/embarking-on-a-journey-my-airbyte-hackathon-and-hacktoberfest-odyssey)
