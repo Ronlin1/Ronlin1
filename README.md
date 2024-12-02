@@ -128,6 +128,7 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/Oanekrif"><img width="24" src="https://avatars.githubusercontent.com/u/130631445?s=24&u=e71f6a908ea6ded2a2d1a94d215fb59e643bf9da&v=4" alt="Oanekrif" /> Oanekrif</a> |12/2/2024, 6:58:05 PM|Keep Going|
 | <a href="https://github.com/Ronlin1"><img width="24" src="https://avatars.githubusercontent.com/u/66623378?s=24&u=0fed5daa84fbd5ba029e0777fb548a8cb9460d45&v=4" alt="Ronlin1" /> Ronlin1</a> |5/28/2024, 7:27:05 PM|Hey, Test!|
 <!-- /Guestbook -->
 
