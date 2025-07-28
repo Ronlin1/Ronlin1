@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://afroboy.hashnode.dev/rss.xml"
+          feed_list: "https://blog.atuhaire.com/rss.xml"
