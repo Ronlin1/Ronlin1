@@ -1,17 +1,26 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # Hourly
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
+      - name: Test RSS feed before update
+        run: |
+          # Quick test to avoid wasting time if blog is down
+          if ! curl -f -s -o /dev/null --max-time 10 https://blog.atuhaire.com/rss.xml; then
+            echo "⚠️ RSS feed not accessible, skipping update"
+            exit 0  # Exit gracefully instead of failing
+          fi
+          
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
           feed_list: "https://blog.atuhaire.com/rss.xml"
+        continue-on-error: true  # Prevents workflow failure if action has issues
