@@ -59,7 +59,7 @@ I do not fear computers but I fear lack of them. <br>
 #### 😄 Pronouns: He/Him
 
 #### 📫 How to reach me: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >
-For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
+For all my Essential Links: Click [Here](https://atuhaire.com/connect)!<br>
 
 
 ## &#x1f4c8; My GitHub Analytics
@@ -132,6 +132,14 @@ For all my Essential Links: Click [Here](https://linktr.ee/Atuhaire)!<br>
 | <a href="https://github.com/Ronlin1"><img width="24" src="https://avatars.githubusercontent.com/u/66623378?s=24&u=0fed5daa84fbd5ba029e0777fb548a8cb9460d45&v=4" alt="Ronlin1" /> Ronlin1</a> |5/28/2024, 7:27:05 PM|Hey, Test!|
 <!-- /Guestbook -->
 
+</div>
+<hr >
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ronlin1&radius=16&theme=nightowl&area=true&order=5&hide_title=false"
+    height="300"
+    alt="GitHub activity graph"
+  />
 </div>
 <!-- <img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Alt text"></img> -->
 
