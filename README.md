@@ -113,11 +113,11 @@ For all my Essential Links: Click [Here](https://atuhaire.com/connect)!<br>
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [PyCon Africa Is Coming to Kampala: Five Days of Python, People and Possibility](https://blog.atuhaire.com/pycon-africa-is-coming-to-kampala-five-days-of-python-people-and-possibility)
 - [CIRCUIT: Giving AI Agents Financial Freedom Without Giving Up Control](https://blog.atuhaire.com/circuit-giving-ai-agents-financial-freedom-without-giving-up-control)
 - [How I Vibecoded My Entire Portfolio in 24 Hours 🤖](https://blog.atuhaire.com/how-i-vibecoded-my-entire-portfolio-in-24-hours)
 - [From Language Models to World Models: Why the Future of AI Is About Understanding Reality](https://blog.atuhaire.com/from-language-models-to-world-models-why-the-future-of-ai-is-about-understanding-reality)
 - [How to Stay Connected During Internet Shutdowns: A Practical Survival Guide](https://blog.atuhaire.com/how-to-stay-connected-during-internet-shutdowns-a-practical-survival-guide)
-- [A Freshman’s Guide to Makerere University](https://blog.atuhaire.com/a-freshmans-guide-to-makerere-university)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
